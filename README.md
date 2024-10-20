@@ -18,4 +18,19 @@ You might also see these referred to as self-closing tags.</p>
 <ul><li><h3>Creating an HTML file</h3></ul>
 <p>Create a new folder on your computer and name it html-boilerplate. Within that folder create a new file and name it index.html<br>To let the computer know we want to create an HTML file, we need to append the filename with the .html extension, as we have done when creating the index.html file.It is worth noting that we named our HTML file index. We should always name the HTML file that will contain the homepage of our website index.html. This is because web servers will by default look for an index.html page when users land on our websites – and not having one will cause big problems.</p>
 
+<ul><li><h3>The DOCTYPE</h3></ul>
+<p>Every HTML page starts with a doctype declaration. The doctype’s purpose is to tell the browser what version of HTML it should use to render the document. The latest version of HTML is HTML5, and the doctype for that version is <!DOCTYPE html>.
+Open the index.html file created earlier in your text editor and add <!DOCTYPE html> to the very first line.</p>
+
+<ul><li><h3>HTML element</h3></ul>
+<p>After we declare the doctype, we need to provide an <html> element. This is what’s known as the root element of the document, meaning that every other element in the document will be a descendant of it.</p>
+
+<ul><li><h3>Head element </h3></ul>
+<p>The <head> element is where we put important meta-information about our webpages, and stuff required for our webpages to render correctly in the browser. Inside the <head>, we should not use any element that displays content on the webpage.</p>
+
+<ul><li><h3>Body element </h3></ul>
+<p>The final element needed to complete the HTML boilerplate is the <body> element. This is where all the content that will be displayed to users will go - the text, images, lists, links, and so on.
+
+To complete the boilerplate, add a <body> element to the index.html file. The <body> element also goes within the <html> element and is always below the <head> element</p>
+
 
