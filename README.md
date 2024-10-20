@@ -10,6 +10,6 @@
 <p>You can think of elements as containers for content. The opening and closing tags tell the browser what content the element contains. The browser can then use that information to determine how it should interpret and format the content.
 
 HTML has a vast list of predefined tags that you can use to create all kinds of different elements.</p>
-<ul><li><h3></h3>Void Elements</li></ul>
+<ul><li><h3>Void Elements</h3></li></ul>
 <p>Some HTML elements do not have a closing tag. These elements just have a single tag. They are known as void elements because they are void of any content, there is nothing inside of them. No closing tag means they can’t wrap content like other tags do. for example &lt;br&gt; , &lt;img&gt; <br>
 You might also see these referred to as self-closing tags.</p>
