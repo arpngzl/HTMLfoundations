@@ -34,10 +34,10 @@ Open the index.html file created earlier in your text editor and add <!DOCTYPE h
 To complete the boilerplate, add a <body> element to the index.html file. The <body> element also goes within the <html> element and is always below the <head> element</p>
 <ul><li><h3>Lists</h3></ul>
 <ul><li><h2>Ordered list</h2></ul>
-<p>Use <ol> to create a list where the order matters, like step-by-step instructions.
-Each item is wrapped in <li> and will be numbered.</p><br>
+<p>Use ol to create a list where the order matters, like step-by-step instructions.
+Each item is wrapped in li in conical brackets and will be numbered.</p><br>
 <ul><li><h2>Unordered list</h2></ul>
-<p>Use <ul> to create a list where the order of items doesn't matter, like a shopping list.
-Each item in the list is wrapped in the <li> element, and displayed with bullet points.</p>
+<p>Use ul to create a list where the order of items doesn't matter, like a shopping list.
+Each item in the list is wrapped in the li in conical brackets element, and displayed with bullet points.</p>
 
 
