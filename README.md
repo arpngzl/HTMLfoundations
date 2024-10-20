@@ -4,5 +4,5 @@
 
 <h2>Elements and Tags</h2>
 <p>Almost all elements on an HTML page are just pieces of content wrapped in opening and closing HTML tags.</p>
-<p><button><p> is the opening tag.
+<p><button><p></button> is the opening tag.
 <button></p> is the closing tag.</p>
