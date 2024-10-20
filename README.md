@@ -33,11 +33,12 @@ Open the index.html file created earlier in your text editor and add <!DOCTYPE h
 
 To complete the boilerplate, add a <body> element to the index.html file. The <body> element also goes within the <html> element and is always below the <head> element</p>
 <ul><li><h3>Lists</h3></ul>
-<ul><li><h2>Ordered list</h2></ul>
+<ul><li><h4>Ordered list</h4></ul>
 <p>Use ol to create a list where the order matters, like step-by-step instructions.
 Each item is wrapped in li in conical brackets and will be numbered.</p><br>
-<ul><li><h2>Unordered list</h2></ul>
+<ul><li><h4>Unordered list</h4></ul>
 <p>Use ul to create a list where the order of items doesn't matter, like a shopping list.
 Each item in the list is wrapped in the li in conical brackets element, and displayed with bullet points.</p>
 
-
+<ul><li><h3>Commit messages </h3></ul>
+<p>Itexplains that you're making code snippets easier to read by applying highlighted styling (background color, padding, etc.). It conveys both why (to improve readability) and what (adding styling to code).</p>
