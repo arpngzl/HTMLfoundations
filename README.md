@@ -15,4 +15,5 @@ HTML has a vast list of predefined tags that you can use to create all kinds of 
 You might also see these referred to as self-closing tags.</p>
 
 <h2>HTML Boilerplate</h2>
+<ul><li><h3>Creating an HTML file</h3></ul>
 
