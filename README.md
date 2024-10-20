@@ -11,4 +11,5 @@
 
 HTML has a vast list of predefined tags that you can use to create all kinds of different elements.</p>
 <ul><li><h3></h3>Void Elements</li></ul>
-<p>Some HTML elements do not have a closing tag. These elements just have a single tag. They are known as void elements because they are void of any content, there is nothing inside of them. No closing tag means they can’t wrap content like other tags do. for example &lt:br&gt; , &lt;img&gt;</p>
+<p>Some HTML elements do not have a closing tag. These elements just have a single tag. They are known as void elements because they are void of any content, there is nothing inside of them. No closing tag means they can’t wrap content like other tags do. for example &lt;br&gt; , &lt;img&gt; <br>
+You might also see these referred to as self-closing tags.</p>
